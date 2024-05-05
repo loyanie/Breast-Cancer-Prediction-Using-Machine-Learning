@@ -1,1 +1,3 @@
 # Breast-Cancer-Prediction-Using-Machine-Learning
+
+As the second most prevalent cause of cancer-related mortality among women, breast cancer accounts for almost one in three cancer diagnoses among women in the United States. It is also the most common cancer among women overall. A tumour, which is the usual term for abnormal cell growth in the breast tissue, is the cause of breast cancer. Tumours can be benign (not cancerous), pre-malignant (pre-cancerous), or malignant (cancerous). A tumour does not always indicate cancer. Tests for breast cancer diagnosis include MRIs, mammograms, ultrasounds, and biopsies. The Support Vector Machine Algorithm will be used in this tutorial to predict cancer
